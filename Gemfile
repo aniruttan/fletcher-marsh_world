@@ -6,6 +6,7 @@ gem 'simple_form'
 gem 'carrierwave'
 gem 'will_paginate'
 gem 'jquery-rails'
+gem 'json', '~> 1.8', '>= 1.8.3'
 
 # Gems used only for assets and not required
 # in production environments by default.
